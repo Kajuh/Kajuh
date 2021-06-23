@@ -4,7 +4,7 @@
 
 <p align='center'>
   A Front-end Developer from Minas Gerais, Brazil.
- Passionate about Soccer, Games, Music and good projects.
+ Passionate about Soccer, Games, Music and Good projects.
 </p>
 
 
