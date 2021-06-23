@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561198020354030/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> &nbsp;&nbsp;
   
   </a>&nbsp;&nbsp;
   <a href="https://Kajuh.github.io/" target="_blank">
