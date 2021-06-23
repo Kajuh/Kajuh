@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561198020354030/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-  " alt="Imagem da steam">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> 
+  
   </a>&nbsp;&nbsp;
   <a href="https://Kajuh.github.io/" target="_blank">
   <img src="https://img.shields.io/website?down_color=BLUE&down_message=ONLINE&style=for-the-badge&up_color=GREEN&up_message=PORTFOLIO&url=https%3A%2F%2FKajuh.github.io%2F" />
